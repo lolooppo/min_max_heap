@@ -13,3 +13,5 @@ Here are pictures from [wikipedia](https://en.wikipedia.org/wiki/Min-max_heap)
 ![pop_minmax_heap-1](https://github.com/lolooppo/min_max_heap/assets/99070234/c6129947-172d-47eb-bb97-980fae60239a)
 
 ![make_minmax_heap](https://github.com/lolooppo/min_max_heap/assets/99070234/f8d480c3-b032-481c-bcd0-ac377073184f)
+
+Useful read [here](https://probablydance.com/2020/08/31/on-modern-hardware-the-min-max-heap-beats-a-binary-heap/).
