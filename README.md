@@ -6,5 +6,6 @@ On a binary heap with N items, you end up with log_2 N layers and have to do up 
 
 Here are pictures from [wikipedia](https://en.wikipedia.org/wiki/Min-max_heap) 
 
-![My Remote Image](https://en.wikipedia.org/wiki/Min-max_heap#/media/File:Min-max_heap.jpg)
+![Min-max_heap](https://github.com/lolooppo/min_max_heap/assets/99070234/8f48d4ae-e24d-4e60-b6eb-7c575ea33690)
+
 
