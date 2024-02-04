@@ -8,4 +8,8 @@ Here are pictures from [wikipedia](https://en.wikipedia.org/wiki/Min-max_heap)
 
 ![Min-max_heap](https://github.com/lolooppo/min_max_heap/assets/99070234/8f48d4ae-e24d-4e60-b6eb-7c575ea33690)
 
+![push_minmax_heap](https://github.com/lolooppo/min_max_heap/assets/99070234/9eb00253-6bed-406e-b59c-0e5c3ea2ae9e)
 
+![pop_minmax_heap-1](https://github.com/lolooppo/min_max_heap/assets/99070234/c6129947-172d-47eb-bb97-980fae60239a)
+
+![make_minmax_heap](https://github.com/lolooppo/min_max_heap/assets/99070234/f8d480c3-b032-481c-bcd0-ac377073184f)
