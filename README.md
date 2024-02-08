@@ -19,6 +19,8 @@ Here are pictures from [wikipedia](https://en.wikipedia.org/wiki/Min-max_heap)
 
 Useful read [here](https://probablydance.com/2020/08/31/on-modern-hardware-the-min-max-heap-beats-a-binary-heap/).
 
+
+
 # Second Approach:
 The idea is to use two binary heaps (one max and one min heap). The main challenge is, while deleting an item, we need to delete from both min-heap and max-heap. So, we need some kind of mutual data structure. In the following design, we have used doubly linked list as a mutual data structure. The doubly linked list contains all input items and indexes of corresponding min and max heap nodes. The nodes of min and max heaps store addresses of nodes of doubly linked list. The root node of min heap stores the address of minimum item in doubly linked list. 
 
@@ -26,4 +28,6 @@ Similarly, root of max heap stores address of maximum item in doubly linked list
 
 Following are the details of operations. 
 
-Here are pictures from [wikipedia](https://en.wikipedia.org/wiki/Min-max_heap) 
+Here are pictures from [GFG](https://www.geeksforgeeks.org/a-data-structure-question/). 
+
+
