@@ -30,4 +30,4 @@ Following are the details of operations.
 
 Here are pictures from [GFG](https://www.geeksforgeeks.org/a-data-structure-question/). 
 
-
+![data-structure1-1024x660](https://github.com/lolooppo/min_max_heap/assets/99070234/6956c737-25a6-4590-9a7d-8a724ecb07ea).
